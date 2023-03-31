@@ -3694,7 +3694,7 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
     width: 80vw;
     top: 33vh;
   }
-`,bQ=()=>_e(E1,{children:"Familiar with Python and Golang"}),TQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.3}),_e("directionalLight",{position:[0,0,1],intensity:.8}),_e("directionalLight",{position:[0,0,-1],intensity:.8}),_e(CQ,{}),_e(EQ,{})]}),fP="/assets/computer-57878239.glb";function PQ(n){const{nodes:e,materials:t}=xi(fP);return _e("group",{...n,dispose:null,scale:6.5,position:[0,0,-2],children:gt("group",{rotation:[-Math.PI/2,0,0],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.None}),_e("mesh",{geometry:e.Object_3.geometry,material:t.None})]})})}xi.preload(fP);const RQ=ht(E1)`
+`,bQ=()=>_e(E1,{children:"Familiar with Python and Golang"}),TQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.3}),_e("directionalLight",{position:[0,0,1],intensity:.8}),_e("directionalLight",{position:[0,0,-1],intensity:.8}),_e(CQ,{}),_e(EQ,{})]}),fP="/assets/computer-57878239.glb";function PQ(n){const{nodes:e,materials:t}=xi(fP);return _e("group",{...n,dispose:null,scale:6.5,rotation:[Math.PI/8,0,0],position:[.2,1,-1.6],children:gt("group",{rotation:[-Math.PI/2,0,0],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.None}),_e("mesh",{geometry:e.Object_3.geometry,material:t.None})]})})}xi.preload(fP);const RQ=ht(E1)`
   top: 15vh;
 
   @media only screen and (max-width: 768px) {
