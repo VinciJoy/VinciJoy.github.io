@@ -3607,7 +3607,7 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
   align-items: center;
   justify-content: space-between;
   scroll-snap-align: center;
-`,dQ=()=>_e(hQ,{id:"Who",children:gt(iQ,{children:[_e(sQ,{children:_e(rQ,{})}),gt(oQ,{children:[_e(aQ,{children:"Think outside the square space"}),gt(lQ,{children:[_e(lP,{}),_e(uQ,{children:"Who I Am"})]}),gt(cQ,{children:["I have a strong ability to learn by example,",_e("br",{}),"and have the experience of using React/Vue/Golang/Python."]})]})]})}),pQ=ht.div`
+`,dQ=()=>_e(hQ,{id:"Who",children:gt(iQ,{children:[_e(sQ,{children:_e(rQ,{})}),gt(oQ,{children:[_e(aQ,{children:"Think outside the square space"}),gt(lQ,{children:[_e(lP,{}),_e(uQ,{children:"Who I Am"})]}),gt(cQ,{children:["Happy to take on new challenges at work,",_e("br",{}),"and have the experience of using React/Vue/Golang/Python."]})]})]})}),pQ=ht.div`
   display: flex;
   width: 100vw;
   height: 100%;
@@ -3651,8 +3651,8 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
   position: absolute;
   height: 60vh;
   user-select: none;
-  animation: animate 2s infinite ease alternate;
-  @keyframes animate {
+  animation: animateImg 2s infinite ease alternate;
+  @keyframes animateImg {
     from {
       transform: translateY(-5vh);
     }
@@ -3678,7 +3678,7 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
     scroll-snap-align: start;
     height: 200vh;
   }
-`,AQ=()=>{const{innerWidth:n}=window;return gt(MQ,{children:[n>768?_e(F_,{}):null,gt(pQ,{children:[gt(mQ,{children:[n<=768?_e(F_,{style:{position:"absolute",top:0}}):null,_e(yQ,{children:"Vinci. Vincible. Invincible."}),gt(xQ,{children:[_e(lP,{}),_e(_Q,{children:"Who I Am"})]}),gt(wQ,{children:["I am Vinci, ",_e("br",{}),"graduated from Hunan University in 2022.",_e("br",{}),"Working as Web Full Stack Developer for one year."]})]}),gt(gQ,{children:[_e($K,{}),_e(vQ,{draggable:!1,src:gU})]})]})]})},uP="/assets/golang-2bef5288.glb";function CQ(n){const{nodes:e,materials:t}=xi(uP);return _e("group",{...n,dispose:null,children:_e("group",{rotation:[-Math.PI/2,0,-Math.PI/2],children:gt("group",{position:[0,0,-1],rotation:[0,Math.PI/2,0],scale:.9,children:[gt("group",{position:[-.14,.01,.93],children:[_e("mesh",{geometry:e.Nose_0.geometry,material:t.SkinColor}),_e("mesh",{geometry:e.Nose_1.geometry,material:t.NoseTop})]}),gt("group",{position:[-.47,.4,.98],children:[_e("mesh",{geometry:e.Eye_R_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_2.geometry,material:t.NoseTop})]}),gt("group",{position:[-.43,-.36,1.02],children:[_e("mesh",{geometry:e.Eye_L_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_2.geometry,material:t.NoseTop})]}),_e("mesh",{geometry:e.Body_0.geometry,material:t.Body}),_e("mesh",{geometry:e.Tail_0.geometry,material:t.SkinColor,position:[.85,0,-.88]}),_e("mesh",{geometry:e.Foot_R001_0.geometry,material:t.SkinColor,position:[1.14,-.61,.46],rotation:[.36,.04,-.04]}),_e("mesh",{geometry:e.Foot_R_0.geometry,material:t.SkinColor,position:[1.14,.57,.52],rotation:[.08,.03,0]}),_e("mesh",{geometry:e.Hnad_L_0.geometry,material:t.SkinColor,position:[.37,-.93,.3]}),_e("mesh",{geometry:e.Hand_R_0.geometry,material:t.SkinColor,position:[.3,.82,.27],rotation:[.41,-.15,-.32]}),_e("mesh",{geometry:e.Tooth_0.geometry,material:t.Tooth,position:[.01,-.01,1.01]}),_e("mesh",{geometry:e.Ear_R_0.geometry,material:t.Body,position:[-.82,.75,.42]}),_e("mesh",{geometry:e.Ear_L_0.geometry,material:t.Body,position:[-.8,-.77,.4]})]})})})}xi.preload(uP);const cP="/assets/python-b749113f.glb";function EQ(n){const{nodes:e,materials:t}=xi(cP);return _e("group",{...n,dispose:null,children:_e("group",{scale:.003,position:[0,1.5,0],children:_e("mesh",{geometry:e.Python_Python_0.geometry,material:t.Python,rotation:[-Math.PI/2,0,0],scale:12})})})}xi.preload(cP);const E1=ht.div`
+`,AQ=()=>{const{innerWidth:n}=window;return gt(MQ,{children:[n>768?_e(F_,{}):null,gt(pQ,{children:[gt(mQ,{children:[n<=768?_e(F_,{style:{position:"absolute",top:0}}):null,_e(yQ,{children:"Vinci. Vincible. Invincible."}),gt(xQ,{children:[_e(lP,{}),_e(_Q,{children:"Who I Am"})]}),gt(wQ,{children:["I am Vinci, ",_e("br",{}),"graduated from Hunan University in 2022,",_e("br",{}),"Working as Web Full Stack Developer for one year."]})]}),gt(gQ,{children:[_e($K,{}),_e(vQ,{draggable:!1,src:gU})]})]})]})},uP="/assets/golang-2bef5288.glb";function CQ(n){const{nodes:e,materials:t}=xi(uP);return _e("group",{...n,dispose:null,children:_e("group",{rotation:[-Math.PI/2,0,-Math.PI/2],children:gt("group",{position:[0,0,-1],rotation:[0,Math.PI/2,0],scale:.9,children:[gt("group",{position:[-.14,.01,.93],children:[_e("mesh",{geometry:e.Nose_0.geometry,material:t.SkinColor}),_e("mesh",{geometry:e.Nose_1.geometry,material:t.NoseTop})]}),gt("group",{position:[-.47,.4,.98],children:[_e("mesh",{geometry:e.Eye_R_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_2.geometry,material:t.NoseTop})]}),gt("group",{position:[-.43,-.36,1.02],children:[_e("mesh",{geometry:e.Eye_L_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_2.geometry,material:t.NoseTop})]}),_e("mesh",{geometry:e.Body_0.geometry,material:t.Body}),_e("mesh",{geometry:e.Tail_0.geometry,material:t.SkinColor,position:[.85,0,-.88]}),_e("mesh",{geometry:e.Foot_R001_0.geometry,material:t.SkinColor,position:[1.14,-.61,.46],rotation:[.36,.04,-.04]}),_e("mesh",{geometry:e.Foot_R_0.geometry,material:t.SkinColor,position:[1.14,.57,.52],rotation:[.08,.03,0]}),_e("mesh",{geometry:e.Hnad_L_0.geometry,material:t.SkinColor,position:[.37,-.93,.3]}),_e("mesh",{geometry:e.Hand_R_0.geometry,material:t.SkinColor,position:[.3,.82,.27],rotation:[.41,-.15,-.32]}),_e("mesh",{geometry:e.Tooth_0.geometry,material:t.Tooth,position:[.01,-.01,1.01]}),_e("mesh",{geometry:e.Ear_R_0.geometry,material:t.Body,position:[-.82,.75,.42]}),_e("mesh",{geometry:e.Ear_L_0.geometry,material:t.Body,position:[-.8,-.77,.4]})]})})})}xi.preload(uP);const cP="/assets/python-b749113f.glb";function EQ(n){const{nodes:e,materials:t}=xi(cP);return _e("group",{...n,dispose:null,children:_e("group",{scale:.003,position:[0,1.5,0],children:_e("mesh",{geometry:e.Python_Python_0.geometry,material:t.Python,rotation:[-Math.PI/2,0,0],scale:12})})})}xi.preload(cP);const E1=ht.div`
   width: 12vw;
   padding: 20px;
   background-color: white;
@@ -3722,7 +3722,7 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
     width: 80vw;
     top: 45vh;
   }
-`,VQ=()=>_e(HQ,{children:"Strong learning ability."}),WQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.5}),_e("directionalLight",{position:[1,1,1]}),_e(GQ,{})]}),zS=["Backend","Frontend","Computer Basics","Learning Ability","Curious"],JQ=ht.div`
+`,VQ=()=>_e(HQ,{children:"Strong ability to learn by example."}),WQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.5}),_e("directionalLight",{position:[1,1,1]}),_e(GQ,{})]}),zS=["Backend","Frontend","Computer Basics","Learning Ability","Curious"],JQ=ht.div`
   display: flex;
   width: 100vw;
   height: 100%;
