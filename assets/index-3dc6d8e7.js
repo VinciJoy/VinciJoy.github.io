@@ -3699,28 +3699,28 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 33vh;
+    top: 34vh;
   }
 `,BQ=()=>_e(RQ,{children:"Solid basic computer knowledge."}),LQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.1}),_e("directionalLight",{position:[1,2,1],color:"purple"}),_e("directionalLight",{position:[-1,-1,1],color:"green"}),_e(PQ,{})]}),hP="/assets/cat-6fda5a92.glb";function IQ(n){const{nodes:e,materials:t}=xi(hP);return gt("group",{...n,dispose:null,scale:1,position:[1,-2,0],children:[gt("group",{position:[-.68,1,-.2],rotation:[.26,.26,-.07],children:[gt("group",{position:[-.14,1.57,1],rotation:[-.83,0,0],scale:.6,children:[gt("group",{position:[.79,.47,-.21],rotation:[1.25,.15,-.47],scale:[.48,.17,.48],children:[_e("mesh",{geometry:e.Object_8.geometry,material:t["Eye.001"]}),_e("mesh",{geometry:e.Object_9.geometry,material:t.material_1})]}),_e("mesh",{geometry:e.Object_6.geometry,material:t.material_1})]}),_e("mesh",{geometry:e.Object_4.geometry,material:t.material}),_e("mesh",{geometry:e.Object_11.geometry,material:t.material_1,position:[.82,1.54,.6],rotation:[-.93,-.15,.52],scale:.79}),_e("mesh",{geometry:e.Object_13.geometry,material:t.material_1,position:[.87,1.39,.78],rotation:[-.86,.16,.23],scale:.79}),_e("mesh",{geometry:e.Object_15.geometry,material:t.material_1,position:[-.96,1.24,.71],rotation:[-1.06,-.65,-2.95],scale:.79}),_e("mesh",{geometry:e.Object_17.geometry,material:t.material_1,position:[-.91,1.36,.51],rotation:[-1.32,-.91,2.85],scale:.79})]}),gt("group",{position:[-.99,2.93,.74],rotation:[-.6,.78,.5],scale:.64,children:[gt("group",{position:[-.44,1.37,.85],rotation:[1.61,0,.03],scale:[1.07,.77,1.07],children:[_e("mesh",{geometry:e.Object_21.geometry,material:t.Fish}),_e("mesh",{geometry:e.Object_22.geometry,material:t["Fish.001"]}),_e("mesh",{geometry:e.Object_23.geometry,material:t.White}),_e("mesh",{geometry:e.Object_24.geometry,material:t["Fish.002"]})]}),_e("mesh",{geometry:e.Object_19.geometry,material:t.Bubble_chat})]})]})}xi.preload(hP);const DQ=ht(E1)`
   top: 25vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 33vh;
+    top: 34vh;
   }
 `,FQ=()=>_e(DQ,{children:"Curious about Technology and Knowledge."}),kQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,-1],intensity:.6}),_e(IQ,{})]}),dP="/assets/react-e648c434.glb";function OQ(n){const{nodes:e,materials:t}=xi(dP);return _e("group",{...n,dispose:null,position:[0,0,-.3],children:_e("group",{scale:.01,children:_e("mesh",{geometry:e["React-Logo_Material002_0"].geometry,material:t["Material.002"],position:[0,7.94,18.1],rotation:[0,0,-Math.PI/2],scale:[39.17,39.17,52.73]})})})}xi.preload(dP);const NQ=ht(E1)`
   top: 10vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 33vh;
+    top: 34vh;
   }
 `,UQ=()=>_e(NQ,{children:"Familiar with React and Vue."}),zQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1]}),_e(OQ,{})]}),pP="/assets/book-92fb9586.glb";function GQ(n){const{nodes:e,materials:t}=xi(pP);return _e("group",{...n,dispose:null,scale:.01,position:[.25,0,0],children:gt("group",{rotation:[-Math.PI/2.5,0,-Math.PI],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.MeshSG}),_e("mesh",{geometry:e.Object_3.geometry,material:t.lambert5SG})]})})}xi.preload(pP);const HQ=ht(E1)`
   top: 20vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 33vh;
+    top: 34vh;
   }
 `,VQ=()=>_e(HQ,{children:"Strong learning ability."}),WQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.5}),_e("directionalLight",{position:[1,1,1]}),_e(GQ,{})]}),zS=["Backend","Frontend","Computer Basics","Learning Ability","Curious"],JQ=ht.div`
   display: flex;
