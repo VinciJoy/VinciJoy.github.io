@@ -3678,7 +3678,7 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
     scroll-snap-align: start;
     height: 200vh;
   }
-`,AQ=()=>{const{innerWidth:n}=window;return gt(MQ,{children:[n>768?_e(F_,{}):null,gt(pQ,{children:[gt(mQ,{children:[n<=768?_e(F_,{style:{position:"absolute",top:0}}):null,_e(yQ,{children:"Vinci. Vincible. Invincible."}),gt(xQ,{children:[_e(lP,{}),_e(_Q,{children:"Who I Am"})]}),gt(wQ,{children:["I am Vinci, ",_e("br",{}),"graduated from Hunan University in 2022.",_e("br",{}),"Working as Web Full Stack Developer for one year."]})]}),gt(gQ,{children:[_e($K,{}),_e(vQ,{draggable:!1,src:gU})]})]})]})},uP="/assets/golang-2bef5288.glb";function CQ(n){const{nodes:e,materials:t}=xi(uP);return _e("group",{...n,dispose:null,children:_e("group",{rotation:[-Math.PI/2,0,-Math.PI/2],children:gt("group",{position:[0,0,-1.5],rotation:[0,Math.PI/2,0],scale:.9,children:[gt("group",{position:[-.14,.01,.93],children:[_e("mesh",{geometry:e.Nose_0.geometry,material:t.SkinColor}),_e("mesh",{geometry:e.Nose_1.geometry,material:t.NoseTop})]}),gt("group",{position:[-.47,.4,.98],children:[_e("mesh",{geometry:e.Eye_R_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_2.geometry,material:t.NoseTop})]}),gt("group",{position:[-.43,-.36,1.02],children:[_e("mesh",{geometry:e.Eye_L_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_2.geometry,material:t.NoseTop})]}),_e("mesh",{geometry:e.Body_0.geometry,material:t.Body}),_e("mesh",{geometry:e.Tail_0.geometry,material:t.SkinColor,position:[.85,0,-.88]}),_e("mesh",{geometry:e.Foot_R001_0.geometry,material:t.SkinColor,position:[1.14,-.61,.46],rotation:[.36,.04,-.04]}),_e("mesh",{geometry:e.Foot_R_0.geometry,material:t.SkinColor,position:[1.14,.57,.52],rotation:[.08,.03,0]}),_e("mesh",{geometry:e.Hnad_L_0.geometry,material:t.SkinColor,position:[.37,-.93,.3]}),_e("mesh",{geometry:e.Hand_R_0.geometry,material:t.SkinColor,position:[.3,.82,.27],rotation:[.41,-.15,-.32]}),_e("mesh",{geometry:e.Tooth_0.geometry,material:t.Tooth,position:[.01,-.01,1.01]}),_e("mesh",{geometry:e.Ear_R_0.geometry,material:t.Body,position:[-.82,.75,.42]}),_e("mesh",{geometry:e.Ear_L_0.geometry,material:t.Body,position:[-.8,-.77,.4]})]})})})}xi.preload(uP);const cP="/assets/python-b749113f.glb";function EQ(n){const{nodes:e,materials:t}=xi(cP);return _e("group",{...n,dispose:null,children:_e("group",{scale:.003,position:[0,1.6,0],children:_e("mesh",{geometry:e.Python_Python_0.geometry,material:t.Python,rotation:[-Math.PI/2,0,0],scale:12})})})}xi.preload(cP);const E1=ht.div`
+`,AQ=()=>{const{innerWidth:n}=window;return gt(MQ,{children:[n>768?_e(F_,{}):null,gt(pQ,{children:[gt(mQ,{children:[n<=768?_e(F_,{style:{position:"absolute",top:0}}):null,_e(yQ,{children:"Vinci. Vincible. Invincible."}),gt(xQ,{children:[_e(lP,{}),_e(_Q,{children:"Who I Am"})]}),gt(wQ,{children:["I am Vinci, ",_e("br",{}),"graduated from Hunan University in 2022.",_e("br",{}),"Working as Web Full Stack Developer for one year."]})]}),gt(gQ,{children:[_e($K,{}),_e(vQ,{draggable:!1,src:gU})]})]})]})},uP="/assets/golang-2bef5288.glb";function CQ(n){const{nodes:e,materials:t}=xi(uP);return _e("group",{...n,dispose:null,children:_e("group",{rotation:[-Math.PI/2,0,-Math.PI/2],children:gt("group",{position:[0,0,-1.2],rotation:[0,Math.PI/2,0],scale:.9,children:[gt("group",{position:[-.14,.01,.93],children:[_e("mesh",{geometry:e.Nose_0.geometry,material:t.SkinColor}),_e("mesh",{geometry:e.Nose_1.geometry,material:t.NoseTop})]}),gt("group",{position:[-.47,.4,.98],children:[_e("mesh",{geometry:e.Eye_R_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_R_2.geometry,material:t.NoseTop})]}),gt("group",{position:[-.43,-.36,1.02],children:[_e("mesh",{geometry:e.Eye_L_0.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_1.geometry,material:t.Tooth}),_e("mesh",{geometry:e.Eye_L_2.geometry,material:t.NoseTop})]}),_e("mesh",{geometry:e.Body_0.geometry,material:t.Body}),_e("mesh",{geometry:e.Tail_0.geometry,material:t.SkinColor,position:[.85,0,-.88]}),_e("mesh",{geometry:e.Foot_R001_0.geometry,material:t.SkinColor,position:[1.14,-.61,.46],rotation:[.36,.04,-.04]}),_e("mesh",{geometry:e.Foot_R_0.geometry,material:t.SkinColor,position:[1.14,.57,.52],rotation:[.08,.03,0]}),_e("mesh",{geometry:e.Hnad_L_0.geometry,material:t.SkinColor,position:[.37,-.93,.3]}),_e("mesh",{geometry:e.Hand_R_0.geometry,material:t.SkinColor,position:[.3,.82,.27],rotation:[.41,-.15,-.32]}),_e("mesh",{geometry:e.Tooth_0.geometry,material:t.Tooth,position:[.01,-.01,1.01]}),_e("mesh",{geometry:e.Ear_R_0.geometry,material:t.Body,position:[-.82,.75,.42]}),_e("mesh",{geometry:e.Ear_L_0.geometry,material:t.Body,position:[-.8,-.77,.4]})]})})})}xi.preload(uP);const cP="/assets/python-b749113f.glb";function EQ(n){const{nodes:e,materials:t}=xi(cP);return _e("group",{...n,dispose:null,children:_e("group",{scale:.003,position:[0,1.3,0],children:_e("mesh",{geometry:e.Python_Python_0.geometry,material:t.Python,rotation:[-Math.PI/2,0,0],scale:12})})})}xi.preload(cP);const E1=ht.div`
   width: 12vw;
   padding: 20px;
   background-color: white;
@@ -3692,35 +3692,35 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 45vh;
+    top: 33vh;
   }
-`,bQ=()=>_e(E1,{children:"Familiar with Python and Golang"}),TQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.3}),_e("directionalLight",{position:[0,0,1],intensity:.8}),_e("directionalLight",{position:[0,0,-1],intensity:.8}),_e(CQ,{}),_e(EQ,{})]}),fP="/assets/computer-57878239.glb";function PQ(n){const{nodes:e,materials:t}=xi(fP);return _e("group",{...n,dispose:null,scale:6.5,position:[0,0,-1.5],children:gt("group",{rotation:[-Math.PI/2,0,0],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.None}),_e("mesh",{geometry:e.Object_3.geometry,material:t.None})]})})}xi.preload(fP);const RQ=ht(E1)`
+`,bQ=()=>_e(E1,{children:"Familiar with Python and Golang"}),TQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.3}),_e("directionalLight",{position:[0,0,1],intensity:.8}),_e("directionalLight",{position:[0,0,-1],intensity:.8}),_e(CQ,{}),_e(EQ,{})]}),fP="/assets/computer-57878239.glb";function PQ(n){const{nodes:e,materials:t}=xi(fP);return _e("group",{...n,dispose:null,scale:6.5,position:[0,0,-2],children:gt("group",{rotation:[-Math.PI/2,0,0],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.None}),_e("mesh",{geometry:e.Object_3.geometry,material:t.None})]})})}xi.preload(fP);const RQ=ht(E1)`
   top: 15vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 45vh;
+    top: 33vh;
   }
 `,BQ=()=>_e(RQ,{children:"Solid basic computer knowledge."}),LQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.1}),_e("directionalLight",{position:[1,2,1],color:"purple"}),_e("directionalLight",{position:[-1,-1,1],color:"green"}),_e(PQ,{})]}),hP="/assets/cat-6fda5a92.glb";function IQ(n){const{nodes:e,materials:t}=xi(hP);return gt("group",{...n,dispose:null,scale:1,position:[1,-2,0],children:[gt("group",{position:[-.68,1,-.2],rotation:[.26,.26,-.07],children:[gt("group",{position:[-.14,1.57,1],rotation:[-.83,0,0],scale:.6,children:[gt("group",{position:[.79,.47,-.21],rotation:[1.25,.15,-.47],scale:[.48,.17,.48],children:[_e("mesh",{geometry:e.Object_8.geometry,material:t["Eye.001"]}),_e("mesh",{geometry:e.Object_9.geometry,material:t.material_1})]}),_e("mesh",{geometry:e.Object_6.geometry,material:t.material_1})]}),_e("mesh",{geometry:e.Object_4.geometry,material:t.material}),_e("mesh",{geometry:e.Object_11.geometry,material:t.material_1,position:[.82,1.54,.6],rotation:[-.93,-.15,.52],scale:.79}),_e("mesh",{geometry:e.Object_13.geometry,material:t.material_1,position:[.87,1.39,.78],rotation:[-.86,.16,.23],scale:.79}),_e("mesh",{geometry:e.Object_15.geometry,material:t.material_1,position:[-.96,1.24,.71],rotation:[-1.06,-.65,-2.95],scale:.79}),_e("mesh",{geometry:e.Object_17.geometry,material:t.material_1,position:[-.91,1.36,.51],rotation:[-1.32,-.91,2.85],scale:.79})]}),gt("group",{position:[-.99,2.93,.74],rotation:[-.6,.78,.5],scale:.64,children:[gt("group",{position:[-.44,1.37,.85],rotation:[1.61,0,.03],scale:[1.07,.77,1.07],children:[_e("mesh",{geometry:e.Object_21.geometry,material:t.Fish}),_e("mesh",{geometry:e.Object_22.geometry,material:t["Fish.001"]}),_e("mesh",{geometry:e.Object_23.geometry,material:t.White}),_e("mesh",{geometry:e.Object_24.geometry,material:t["Fish.002"]})]}),_e("mesh",{geometry:e.Object_19.geometry,material:t.Bubble_chat})]})]})}xi.preload(hP);const DQ=ht(E1)`
   top: 25vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 45vh;
+    top: 33vh;
   }
-`,FQ=()=>_e(DQ,{children:"Curious about Technology and Knowledge."}),kQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,-1],intensity:.6}),_e(IQ,{})]}),dP="/assets/react-e648c434.glb";function OQ(n){const{nodes:e,materials:t}=xi(dP);return _e("group",{...n,dispose:null,children:_e("group",{scale:.01,children:_e("mesh",{geometry:e["React-Logo_Material002_0"].geometry,material:t["Material.002"],position:[0,7.94,18.1],rotation:[0,0,-Math.PI/2],scale:[39.17,39.17,52.73]})})})}xi.preload(dP);const NQ=ht(E1)`
+`,FQ=()=>_e(DQ,{children:"Curious about Technology and Knowledge."}),kQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,1],intensity:.6}),_e("directionalLight",{position:[-1,1,-1],intensity:.6}),_e(IQ,{})]}),dP="/assets/react-e648c434.glb";function OQ(n){const{nodes:e,materials:t}=xi(dP);return _e("group",{...n,dispose:null,position:[0,0,-.3],children:_e("group",{scale:.01,children:_e("mesh",{geometry:e["React-Logo_Material002_0"].geometry,material:t["Material.002"],position:[0,7.94,18.1],rotation:[0,0,-Math.PI/2],scale:[39.17,39.17,52.73]})})})}xi.preload(dP);const NQ=ht(E1)`
   top: 10vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 45vh;
+    top: 33vh;
   }
-`,UQ=()=>_e(NQ,{children:"Familiar with React and Vue."}),zQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1]}),_e(OQ,{})]}),pP="/assets/book-92fb9586.glb";function GQ(n){const{nodes:e,materials:t}=xi(pP);return _e("group",{...n,dispose:null,scale:.01,children:gt("group",{rotation:[-Math.PI/2.5,0,-Math.PI],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.MeshSG}),_e("mesh",{geometry:e.Object_3.geometry,material:t.lambert5SG})]})})}xi.preload(pP);const HQ=ht(E1)`
+`,UQ=()=>_e(NQ,{children:"Familiar with React and Vue."}),zQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("directionalLight",{position:[1,1,1]}),_e(OQ,{})]}),pP="/assets/book-92fb9586.glb";function GQ(n){const{nodes:e,materials:t}=xi(pP);return _e("group",{...n,dispose:null,scale:.01,position:[.25,0,0],children:gt("group",{rotation:[-Math.PI/2.5,0,-Math.PI],children:[_e("mesh",{geometry:e.Object_2.geometry,material:t.MeshSG}),_e("mesh",{geometry:e.Object_3.geometry,material:t.lambert5SG})]})})}xi.preload(pP);const HQ=ht(E1)`
   top: 20vh;
 
   @media only screen and (max-width: 768px) {
     width: 80vw;
-    top: 45vh;
+    top: 33vh;
   }
 `,VQ=()=>_e(HQ,{children:"Strong learning ability."}),WQ=()=>gt(cf,{children:[_e(wu,{autoRotate:!0,enableZoom:!1}),_e("ambientLight",{intensity:.5}),_e("directionalLight",{position:[1,1,1]}),_e(GQ,{})]}),zS=["Backend","Frontend","Computer Basics","Learning Ability","Curious"],JQ=ht.div`
   display: flex;
@@ -3730,7 +3730,23 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
   @media only screen and (max-width: 768px) {
     flex-direction: column;
   }
-`,jQ=ht.div({flex:1,height:"100vh",display:"flex",justifyContent:"center",alignItems:"center"}),XQ=ht.div({flex:1,height:"100vh"}),YQ=ht.ul`
+`,jQ=ht.div`
+  flex: 1;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media only screen and (max-width: 768px) {
+    flex: 1;
+  }
+`,XQ=ht.div`
+  flex: 1;
+
+  @media only screen and (max-width: 768px) {
+    flex: 2;
+  }
+`,YQ=ht.ul`
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -3798,7 +3814,6 @@ vec3 mod289(vec3 x){return x-floor(x*(1.0/289.0))*289.0;}vec4 mod289(vec4 x){ret
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
   position: relative;
   scroll-snap-align: start;
 `,$Q=()=>{const[n,e]=le.useState(zS[0]);return _e(qQ,{id:"Works",children:gt(JQ,{children:[_e(jQ,{children:_e(YQ,{children:zS.map(t=>gt(QQ,{selected:n===t,onClick:()=>e(t),text:t,children:[t,_e(KQ,{children:n===t?"👈":""})]},t))})}),gt(XQ,{children:[gt(N7,{children:[n==="Backend"?_e(TQ,{}):null,n==="Frontend"?_e(zQ,{}):null,n==="Computer Basics"?_e(LQ,{}):null,n==="Learning Ability"?_e(WQ,{}):null,n==="Curious"?_e(kQ,{}):null]}),n==="Backend"?_e(bQ,{}):null,n==="Frontend"?_e(UQ,{}):null,n==="Computer Basics"?_e(BQ,{}):null,n==="Learning Ability"?_e(VQ,{}):null,n==="Curious"?_e(FQ,{}):null]})]})})},eZ="/assets/bg-b88f0bad.jpeg",tZ=ht.div`
